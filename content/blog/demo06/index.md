@@ -1,5 +1,5 @@
 ---
-slug: demo-01
+slug: demo-06
 date: 2010-10-05
 title: 'everybody is above average'
 description: 'this post has all of the right fields'
